@@ -8,7 +8,7 @@
 
  💬 We are currently learning **Deployment of application in IBM cloud**
 
- 📫 We are looking to collaborate on **IBM- Naliya thiran
+ 📫 We are looking to collaborate on **IBM- Naliya thiran**
  
  ⚡ How to reach me **chandrumurugasan@gmail.com**
 
