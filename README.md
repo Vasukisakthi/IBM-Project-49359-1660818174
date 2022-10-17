@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, we are Four fellows from PIE TECH</h1>
+<h1 align="center">Hi 👋, we are Four Ninjas from PIE TECH</h1>
 <h3 align="center">A junior fullstack developers from India</h3>
 <img align="right" alt="coding" with="400" src="https://stalwartinfo.com/wp-content/uploads/2022/02/App-development-rafiki.svg">
 
