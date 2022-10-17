@@ -1,35 +1,23 @@
-# IBM-Project-49359-1660818174
+<h1 align="center">Hi ðŸ‘‹, we are Four fellows from PIE TECH</h1>
+<h3 align="center">A junior fullstack developers from India</h3>
 
-Project Title:
-Plasma Donor Application
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibm-project-49359-1660818174&label=Profile%20views&color=0e75b6&style=flat" alt="ibm-project-49359-1660818174" /> </p>
 
-Software Required:
-Python, Flask , Docker
+- ðŸ”­ We are working on project name **Plasma donor application**
 
-System Required:
-8GB RAM,Intel Core i3,OS-Windows/Linux/MAC ,Laptop or Desktop
+- ðŸŒ± we are currently learning **Deployment of application in IBM cloud**
 
-During the COVID 19 crisis, the requirement of plasma became a high priority and the donor count has become low.
-Saving the donor information and helping the needy by notifying the current donors list, would be a helping hand.
-In regard to the problem faced, an application is to be built which would take the donor details, store them and
-inform them upon a request
+- ðŸ‘¯ we are looking to collaborate on **IBM Cloud and Naliya thiran**
 
-Project Workflow:
- The user interacts with the application.
-Registers by giving the details as a donor.
-The database will have all the details and if a user posts a request then the concerned blood group donors will get notified about it.
+- ðŸ“« How to reach me **chandrumurugasan@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandru-murugesan-5a701622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandru-murugesan-5a701622b" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=user_system_sheet&utm_content=92xzd83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=user_system_sheet&utm_content=92xzd83" height="30" width="40" /></a>
+</p>
 
-Team:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-Vasuki s
-Yuvaraj p
-Chandru m
-Krishnaveni i
-Soundariya
-
-Industry Mentor(s) Name: Mentor 14
-
-Faculty Mentor(s) Name: R. PRIYA
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibm-project-49359-1660818174&show_icons=true&locale=en&layout=compact" alt="ibm-project-49359-1660818174" /></p>
