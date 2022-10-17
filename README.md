@@ -1,14 +1,16 @@
-<h1 align="center">Hi , we are Four fellows from PIE TECH</h1>
+<h1 align="center">Hi 👋, we are Four fellows from PIE TECH</h1>
 <h3 align="center">A junior fullstack developers from India</h3>
+<img align="right" alt="coding" with="400" src="https://stalwartinfo.com/wp-content/uploads/2022/02/App-development-rafiki.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibm-project-49359-1660818174&label=Profile%20views&color=0e75b6&style=flat" alt="ibm-project-49359-1660818174" /> </p>
 
-- ­We are working on project name **Plasma donor application**
+ 🔭 We are working on project name **Plasma donor application**
 
-- We are currently learning **Deployment of application in IBM cloud**
+ 💬 We are currently learning **Deployment of application in IBM cloud**
 
-- We are looking to collaborate on **IBM Cloud and Naliya thira
-- How to reach me **chandrumurugasan@gmail.com**
+ 📫 We are looking to collaborate on **IBM- Naliya thiran
+ 
+ ⚡ How to reach me **chandrumurugasan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
